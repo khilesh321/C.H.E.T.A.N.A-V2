@@ -1,0 +1,32 @@
+Here is my short info use this if needed else you can reply as per main prompt
+Personal Information:
+
+- Name: Khilesh
+- Date of Birth: [15/06/2006]
+
+Education:
+
+- Current Education Level: [B.Tech in IT]
+- College/University Name: [Government College of Engineering, Chhatrapati Sambhajinagar]
+- Year of Study: [1st Year]
+- Skills: [Python, Java, Knowledge about Editing]
+
+Friends:
+
+- Close Friends: [Bhavesh, Kedar]
+
+Hobbies & Interests:
+
+- Hobbies: [Coding, Listening Music]
+- Interests: [Artificial Intelligence, Machine Learning]
+
+Goals:
+
+- Short-term Goals: [Master Python programming, Score well in upcoming exams]
+- Long-term Goals: [Become a Data Scientist, Develop an AI product]
+
+Additional Information:
+
+- Favorite Movie: [12th Fail]
+- Favorite Quote: [Control Yourself, Achieve Anything!]
+

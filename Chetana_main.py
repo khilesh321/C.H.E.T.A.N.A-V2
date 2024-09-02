@@ -1,3 +1,4 @@
+# -----------------------------C.H.E.T.A.N.A-----------------------
 import os
 os.environ["PYGAME_HIDE_SUPPORT_PROMPT"] = "hide"
 from logging import root
@@ -5,7 +6,6 @@ import threading
 from logging import root
 import threading
 import datetime
-
 from email import message
 import webbrowser
 # from numpy import tile

@@ -22,8 +22,9 @@ def greetMe():
     else:
         speak("Good Evening,sir")
 
-    msg = random.choice(ask_msg)
-    speak(msg)
+    # msg = random.choice(ask_msg)
+    # speak(msg)
+    speak("Please tell me, How can I help you ?")
 
 if __name__ == "__main__":
     greetMe()

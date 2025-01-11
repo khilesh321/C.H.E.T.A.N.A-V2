@@ -9,11 +9,11 @@ Education:
 - Current Education Level: [B.Tech in IT]
 - College/University Name: [Government College of Engineering, Chhatrapati Sambhajinagar]
 - Year of Study: [1st Year]
-- Skills: [Python, Java, Knowledge about Editing]
+- Skills: [Python, Java, Web Development, Knowledge about Editing]
 
 Friends:
 
-- Close Friends: [Bhavesh, Kedar]
+- Close Friends: [Bhavesh, Kedar, Yash, Kartik]
 
 Hobbies & Interests:
 
@@ -22,11 +22,11 @@ Hobbies & Interests:
 
 Goals:
 
-- Short-term Goals: [Master Python programming, Score well in upcoming exams]
-- Long-term Goals: [Become a Data Scientist, Develop an AI product]
+- Short-term Goals: [Master Web Development, Score well in upcoming exams]
+- Long-term Goals: [Career in AI, Develop an AI product]
 
 Additional Information:
 
-- Favorite Movie: [12th Fail]
+- Favorite Movie: [Bhaag Milkha Bhaag, 12th Fail, 3 idiots]
 - Favorite Quote: [Control Yourself, Achieve Anything!]
 

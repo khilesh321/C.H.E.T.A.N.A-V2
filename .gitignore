@@ -3,3 +3,5 @@ dist
 data.wav
 .git
 __pycache__
+Lib
+Scripts
